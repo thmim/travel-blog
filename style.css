@@ -1,0 +1,13 @@
+*{
+    background-color: aquamarine;
+   
+}
+.paragraph{
+    border-width: 3px;
+    border-color: chartreuse;
+    border-style: dashed;
+    padding: 2px; margin: 3px;
+}
+#unique{
+    font-style: bold;
+}
